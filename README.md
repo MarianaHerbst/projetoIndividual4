@@ -4,7 +4,7 @@ Projeto individual do 4° módulo onde tivemos que fazer um diagrama e um script
 
 Foi proposto fazer uma modelagem de dados dos alunos, turmas e cursos da Resilia, tendo o objetivo de responder as respectivas três perguntas nesse modelo:
 
-- <h4> Existem outras entidades além dessas três? </h4>
+- <h4> Existem outras entidades além dessas três?SIM </h4>
 - <h4> Quais são os principais campos e tipos? </h4>
 - <h4> Como essas entidades estão relacionadas? </h4>
   <hr>
